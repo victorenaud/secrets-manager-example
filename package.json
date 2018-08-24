@@ -1,0 +1,15 @@
+{
+  "name": "secrets-manager-example",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:victorenaud/secrets-manager-example.git",
+  "author": "victorenaud <7222886+victorenaud@users.noreply.github.com>",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "aws-sdk": "^2.300.0",
+    "jest": "^23.5.0"
+  }
+}
